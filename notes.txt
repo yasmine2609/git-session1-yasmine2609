@@ -1,2 +1,7 @@
 Personal development notes.
+Git and GitHub Learning Goals
+
+In this project, I am learning how to use Git to track changes in files.
+
+I will practice creating commits, working with branches, merging changes, and connecting a local repository to GitHub.
 
