@@ -50,3 +50,6 @@ console.log("Hello GitHub!");
 
 !\[Project Banner](assets/project-banner.svg)
 
+## GitHub Update
+
+This section was added directly on GitHub to practice fetching and pulling remote changes.
