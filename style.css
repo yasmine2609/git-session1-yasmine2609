@@ -19,3 +19,7 @@ section {
   padding: 20px;
   border: 1px solid #e3e3e3;
 }
+/* Styling for the Git learning assignment */
+p {
+    line-height: 1.6;
+}
